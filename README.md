@@ -1,0 +1,2 @@
+# PredictCustomerPersonalitytoBoostMarketingCampaignbyUsingMachineLearning
+calcification model
